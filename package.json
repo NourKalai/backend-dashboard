@@ -1,0 +1,44 @@
+{
+  "name": "material-tailwind-dashboard-react",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@heroicons/react": "2.0.12",
+    "@material-tailwind/react": "1.2.4",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "^5.11.0",
+    "@mui/material-next": "^6.0.0-alpha.66",
+    "@reduxjs/toolkit": "^1.9.1",
+    "apexcharts": "3.35.5",
+    "axios": "^1.2.1",
+    "date-fns": "^2.29.3",
+    "path-browserify": "^1.0.1",
+    "prop-types": "15.8.1",
+    "react": "^18.2.0",
+    "react-apexcharts": "1.4.0",
+    "react-date-range": "^1.4.0",
+    "react-dom": "18.2.0",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "6.4.2",
+    "react-select": "^5.7.0"
+  },
+  "devDependencies": {
+    "@types/react": "18.0.17",
+    "@types/react-dom": "18.0.6",
+    "@vitejs/plugin-react": "2.1.0",
+    "autoprefixer": "10.4.12",
+    "postcss": "8.4.17",
+    "prettier": "2.7.1",
+    "prettier-plugin-tailwindcss": "0.1.13",
+    "tailwindcss": "^3.2.4",
+    "vite": "3.1.0"
+  }
+}
